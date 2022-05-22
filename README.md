@@ -15,8 +15,8 @@
 #### Please Install Termux apk From Fdroid website.
 ##### If you want to use the code only install other if want to do changes please check the folder.
 
-<div id="header" align="center">
-  <img src="giphy.gif" width="100"/>
+<div id="warning" align="center">
+  <img src="warning.gif" width="200"/>
 </div>
 
 <div style="margin-top:60px;">
